@@ -31,3 +31,4 @@ If you think this valult is incomplete, you can add your algorithm to it.
 * Reduce the complexity as much as possible.
 * Use console.log at each step of code execution so that users get a clear picture of what's happening.
 * Use the name of the algorithm as file name with camalCasing.
+* Update the readme content as well.
