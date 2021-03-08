@@ -32,3 +32,14 @@ If you think this vault is incomplete, you can add your algorithm to it.
 * Use console.log at each step of code execution so that users get a clear picture of what's happening.
 * Use the name of the algorithm as file name with camelCasing.
 * Update the readme content as well.
+
+## Contributors
+Thank you to these amazing people.
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Thejus5"><img src="https://avatars.githubusercontent.com/u/71311417?s=400&u=76d12ce940d1de4bc2c87804bf01b26809e713b7&v=4" width="100px;" alt="Thejus5 image"/><br /><sub><b>Thejus5</b></sub></a></td>
+  
+  </tr>
+</table>
