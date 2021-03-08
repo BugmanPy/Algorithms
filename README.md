@@ -33,7 +33,7 @@ If you think this vault is incomplete, you can add your algorithm to it.
 * Use the name of the algorithm as file name with camelCasing.
 * Update the readme content as well.
 
-## Contributors
+## Contributors :star:
 Thank you to these amazing people.
 
 
