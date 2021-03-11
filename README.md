@@ -2,7 +2,7 @@
 This is a document vault containing some basic programming algorithms written in JavaScript. These codes are self explanatory and contains console logs that will show user exactly what is happening in the code. 
 
 As we progress through a programming language, we will get more and more used to the language provided methods for all basic operations. Generally, we developers won't spend time on writing these basic codes from scratch. As a result, we often forget these basic algorithms in the course of time. 
-This vault, and the codes within can be used as a quick recap to the basics of programming algorithms and of cource, you can use this codes in your own projects as well.
+This vault, and the codes within can be used as a quick recap to the basics of programming algorithms and of course, you can use this codes in your own projects as well.
 
 ## Contents
 
