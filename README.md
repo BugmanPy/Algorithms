@@ -1,8 +1,8 @@
 # Basic Algorithms
-This is a document vault containing some basic programming algorithms written in JavaScript. These self explanatory codes contains console logs that will show the user exactly what is happening in the code. 
+This is a document vault containing some basic programming algorithms written in JavaScript. These codes are self explanatory and contains console logs that will show user exactly what is happening in the code. 
 
-As we progress through a programming language, we will get more and more used to the language provided methods for all basic operations. Generally, we developers won't spend time on writing these basic codes from scratch. As a result, we will forget these basic algorithms in the course of time. 
-This vault, and the codes within can be used a quick recap to the basics of programming algorithms.
+As we progress through a programming language, we will get more and more used to the language provided methods for all basic operations. Generally, we developers won't spend time on writing these basic codes from scratch. As a result, we often forget these basic algorithms in the course of time. 
+This vault, and the codes within can be used as a quick recap to the basics of programming algorithms and of cource, you can use this codes in your own projects as well.
 
 ## Contents
 
@@ -12,12 +12,14 @@ This vault, and the codes within can be used a quick recap to the basics of prog
 | Linear | Selection |
 
 ## How to use
-You can either download or clone the repo to your local machine and there will be independent files for each algorithm. Open terminal in the root folder of the js file and run the file. `node filename.js`
+First of all, make sure you have NodeJs installed in your system. You can get latest Node version from [here](https://nodejs.org/en/download/).
 
-You can see a well explained execution of the code.
+You can either download or clone the repo to your local machine and there will be independent files for each algorithm. Open terminal in the root folder of the js file and run the file using node. `node filename.js`
+
+You will see a well explained execution of the code.
 
 ## How to contribute
-If you think this vault is incomplete, you can add your algorithm to it. 
+If you think this vault is incomplete, you can add your own algorithms to it. 
 
 1. Fork the repository.
 2. Create a folder for your category if it doesn't already exist.
@@ -31,7 +33,6 @@ If you think this vault is incomplete, you can add your algorithm to it.
 * Reduce the complexity as much as possible.
 * Use console.log at each step of code execution so that users get a clear picture of what's happening.
 * Use the name of the algorithm as file name with camelCasing.
-* Update the readme content as well.
 
 ## Contributors :star:
 Thank you to these amazing people.
