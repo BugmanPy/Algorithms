@@ -10,6 +10,7 @@ This vault, and the codes within can be used as a quick recap to the basics of p
 | ------ | ---- |
 | Binary | Insertion |
 | Linear | Selection |
+         | Bubble    |
 
 ## How to use
 First of all, make sure you have NodeJs installed in your system. You can get latest Node version from [here](https://nodejs.org/en/download/).
