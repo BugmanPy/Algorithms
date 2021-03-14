@@ -7,7 +7,7 @@ const array = [64, 25, 12, 22, 11];
 
 function bubbleSort(arr) {
   let length = arr.length;
-  console.log("Initial array", arr);
+  console.log("Initial array", [...arr]);
   console.log("=================== START SORTING =========================");
   for (let i = length - 1; i >= 0; i--) {
     console.log("----------- *** ------------");
