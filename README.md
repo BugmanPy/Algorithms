@@ -42,6 +42,7 @@ Thank you to these amazing people.
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Thejus5"><img src="https://avatars.githubusercontent.com/u/71311417?s=400&u=76d12ce940d1de4bc2c87804bf01b26809e713b7&v=4" width="100px;" alt="Thejus5 image"/><br /><sub><b>Thejus5</b></sub></a></td>
+    <td align="center"><a href="https://github.com/subinchaliyath"><img src="https://avatars.githubusercontent.com/u/64072829?s=400&v=4" width="100px;" alt="subinchaliyath image"/><br /><sub><b>subinchaliyath</b></sub></a></td>
   
   </tr>
 </table>
